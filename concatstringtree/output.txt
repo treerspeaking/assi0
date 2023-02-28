@@ -1,0 +1,15 @@
+ParentsTree[(id=7)]
+ParentsTree[(id=6);(id=7)]
+ParentsTree[(id=5);(id=7)]
+ParentsTree[(id=4);(id=1);(id=6)]
+ParentsTree[(id=5);(id=3);(id=6)]
+LitStringHash[();(litS="hihi");(litS="haha");(litS="hoho")]
+1
+ConcatStringTree["hahahoho"]
+LitStringHash[();(litS="hihi");(litS="haha");(litS="hoho")]
+1
+LitStringHash[();(litS="10");(litS="hihi");(litS="haha");();();(litS="hoho");()]
+1
+ConcatStringTree["hahahihihahahohohihi"]
+LitStringHash[]
+-1

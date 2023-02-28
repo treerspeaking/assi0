@@ -1,0 +1,34 @@
+﻿  concatstringtree.cpp
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(160,38): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(161,36): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(177,152): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(178,132): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(179,133): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(181,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(194,39): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(195,37): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(210,151): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(211,131): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(212,132): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(214,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(236,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(249,91): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(255,66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(260,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(265,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(528,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(534,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(542,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(548,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(610,21): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(638,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(660,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(611,8): warning C4101: 'new_tomb': unreferenced local variable
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(764,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(779,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(919,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(925,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(933,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(939,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\levie\OneDrive\source code\concatstringtree\concatstringtree\concatstringtree.cpp(270): warning C4715: 'revcopy': not all control paths return a value
+  concatstringtree.vcxproj -> C:\Users\levie\OneDrive\source code\concatstringtree\x64\Debug\concatstringtree.exe
